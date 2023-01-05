@@ -14,15 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Merve's GitHub stats](https://github-readme-stats.vercel.app/api?username=MerveeYILDIZ)](https://github.com/MerveYILDIZ/github-readme-stats)
-![Merve's GitHub stats](https://github-readme-stats.vercel.app/api?username=MerveeYILDIZ&show_icons=true&theme=tokyonight)
-<a href="https://wakatime.com"><img width="700" src="https://wakatime.com/share/@0661ceaf-4326-498e-9a55-e3e82648b874/df703330-56a3-4097-915e-0f0bc8d9b0da.png"></a></p>
-<div>
-        <hr/>
-        <p align="center">
-          <a href="https://wakatime.com"><img width="700" src=""https://wakatime.com/share/@0661ceaf-4326-498e-9a55-e3e82648b874/27791884-63c9-4ddc-ac4e-8036427f87b9.png"></a>
-        </p>
-    </div>
+
     .. image:: https://wakatime.com/share/@0661ceaf-4326-498e-9a55-e3e82648b874/27791884-63c9-4ddc-ac4e-8036427f87b9.png
     :target: https://wakatime.com/
   <div>
@@ -70,4 +62,4 @@ Here are some ideas to get you started:
     <div>
         <img src="https://activity-graph.herokuapp.com/graph?username=MerveeYILDIZ&theme=xcode" />
     </div>
-</div>
+
